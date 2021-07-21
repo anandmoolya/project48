@@ -64,9 +64,20 @@ function draw() {
     textSize(30)
     fill("yellow")
     text("story",20,50)
-    text("There is fitting between warrior and monster so story is that befor 100,200BC befor there is king her city name mumbai in that city all people are very happy but in that city one day monsters  attacked the city and stared harassing the innocent people the notice get to king so king start fit with monster to save the citizen  ",50,100)
-    text("used your mouse to move player up and down",50,400)
+    text("There is fitting between warrior and monster ",50,100)
+    text(" so story is that befor 100,200BC befor there",50,150)
+    text("is king her city name mumbai in that city all",50,200)
+    text(" people are very happy but in that one ",50,250)
+    text("day monsters  attacked the city and stared harassing",50,300)
+    text(" the innocent people the notice get to king so king ",50,350)
+    text("start fit with monster to save the citizen",50,400)
     
+    textSize(30)
+    fill("red")
+    text("how to play ",20,550)
+    text("used your mouse to move player up and down",50,600)
+    
+
   }
   
   
